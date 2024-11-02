@@ -1,5 +1,5 @@
 import './TodoList.css';
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import Icone from './assets/listaicon.png';
 
 function TodoList() {
